@@ -51,21 +51,22 @@ flutter_launcher_icons:
 # background_color_ios: "#ffffff" don't work https://github.com/fluttercommunity/flutter_launcher_icons/issues/505
   remove_alpha_ios: true
 # image_path: "assets/icons/1.png" # 512*512
-#  image_path: "assets/icons/icon3.png" # 256*256
-  image_path: "assets/icons/blue1.png" # 1920*1200
+# image_path: "assets/icons/icon3.png" # 256*256
+# image_path: "assets/icons/blue1.png" # 1920*1200
+  image_path: "assets/icons/7.jpeg" # 1920*1200
   min_sdk_android: 21 # android min sdk min:16, default 21
   web:
     generate: true
-    image_path: "assets/icons/blue1.png"
+    image_path: "assets/icons/7.jpeg"
     background_color: "#hexcode"
     theme_color: "#hexcode"
   windows:
     generate: true
-    image_path: "assets/icons/blue1.png"
+    image_path: "assets/icons/7.jpeg"
     icon_size: 48 # min:48, max:256, default: 48
   macos:
     generate: true
-    image_path: "assets/icons/blue1.png"
+    image_path: "assets/icons/7.jpeg"
 
 
   
